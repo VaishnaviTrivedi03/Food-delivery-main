@@ -59,9 +59,6 @@ Before starting, ensure that you have the following tools installed:
 - **MongoDB** (local setup or MongoDB Atlas)
 - **Stripe account** for payment integration
 
-### Steps to Run the Project Locally:
-
-Certainly! Here's the **README.md** file in full markdown format:
 
 ```markdown
 # Food Delivery System - Powered by Seamless Technology
@@ -129,7 +126,7 @@ The application ensures a secure and user-friendly ordering process, allows rest
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/food-delivery-system.git
+git clone https://github.com/VaishnaviTrivedi03/Food-delivery-main.git
 ```
 
 2. Navigate to the project directory:
